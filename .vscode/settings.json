@@ -1,4 +1,7 @@
 {
+    "latex-workshop.view.pdf.color.dark.pageColorsBackground": "#171717",
+    "latex-workshop.view.pdf.color.dark.pageColorsForeground": "#FFFFFF",
+    "latex-workshop.view.pdf.color.dark.backgroundColor": "#171717",
     "grammarly.files.include": [
         "**/*.tex"
     ],
