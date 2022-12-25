@@ -1,5 +1,12 @@
 {
     "grammarly.files.include": [
         "**/*.tex"
-    ]
+    ],
+    "grammarly.config.suggestions.ConjunctionAtStartOfSentence": true,
+    "grammarly.config.suggestions.InformalPronounsAcademic": true,
+    "grammarly.config.suggestions.OxfordComma": true,
+    "grammarly.config.suggestions.PassiveVoice": true,
+    "grammarly.config.suggestions.PrepositionAtTheEndOfSentence": true,
+    "grammarly.config.suggestions.StylisticFragments": true,
+    "grammarly.config.suggestions.UnnecessaryEllipses": true
 }
