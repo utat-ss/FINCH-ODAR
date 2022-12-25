@@ -1,0 +1,10 @@
+{
+  "name": "latexspace",
+  "image": "danteev/texlive:latest", // https://github.com/dante-ev/docker-texlive
+  "features": {},
+  "extensions": [
+          "James-Yu.latex-workshop",
+          "ms-vsliveshare.vsliveshare",
+          "znck.grammarly"
+    ]
+}
