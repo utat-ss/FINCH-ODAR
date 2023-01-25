@@ -18,7 +18,7 @@
     "editor.rulers": [
     
     ],
-    "latex-workshop.latex.tools": [
+    "latex-workshop.latex.tools": [ // addition of '-shell-escape' allows the insertion of svgs
 
         {
             "name": "latexmk",
